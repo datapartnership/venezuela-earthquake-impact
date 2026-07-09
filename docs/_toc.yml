@@ -5,3 +5,4 @@ parts:
   - caption: Earthquake Impact
     chapters:
       - file: notebooks/earthquake-region/earthquake_intensity.ipynb
+      - file: notebooks/network-coverage/network_coverage.ipynb
